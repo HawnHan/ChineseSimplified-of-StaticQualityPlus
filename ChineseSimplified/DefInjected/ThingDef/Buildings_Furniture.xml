@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PermaSunLamp.label>珀玛太阳灯</PermaSunLamp.label>
+  <PermaSunLamp.description>照亮一个地区，足以种植庄稼，但消耗大量的电力。</PermaSunLamp.description>
+  <PermaSunLamp.comps.3.offMessage>在植物休眠期间关闭</PermaSunLamp.comps.3.offMessage>
+  <PermaSunLamp_Blueprint.label>珀玛太阳灯(蓝图)</PermaSunLamp_Blueprint.label>
+  <PermaSunLamp_Blueprint_Install.label>珀玛太阳灯(蓝图)</PermaSunLamp_Blueprint_Install.label>
+  <PermaSunLamp_Frame.label>珀玛太阳灯(建造中)</PermaSunLamp_Frame.label>
+  <PermaSunLamp_Frame.description>照亮一个地区，足以种植庄稼，但消耗大量的电力。</PermaSunLamp_Frame.description>
+
+
+  <!--<PermaSunLamp.comps.2.offMessage>植物休眠期</PermaSunLamp.comps.2.offMessage>-->
+
+</LanguageData>
